@@ -10,8 +10,7 @@ Hi there I'm Muhammadali Anvarov and I'm frontend developper <img src="https://m
 🤩My Technolody🤩
 <br><br><br>
 
-<code>
-  <a href="https://t.me/https://t.me/Ali_Portfolio_web">
-   <img src="https://media2.giphy.com/media/13Nc3xlO1kGg3S/200w.webp?cid=ecf05e47c94edncp4mqz5djevc81ahdrxbubyv5ptqrjefr3&rid=200w.webp&ct=g" width="50">
-  </a>
-</code>
+<a href="https://t.me/https://t.me/Ali_Portfolio_web">
+  <img src="https://media2.giphy.com/media/13Nc3xlO1kGg3S/200w.webp?cid=ecf05e47c94edncp4mqz5djevc81ahdrxbubyv5ptqrjefr3&rid=200w.webp&ct=g" width="100">
+</a>
+
