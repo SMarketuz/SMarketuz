@@ -1,1 +1,1 @@
-Hi there I'm Muhammadali Anvarov and I'm frontend developper <img src="https://media2.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif?cid=ecf05e47grspgctzvnc8f8e30kxdeiwrgjs0hpqz103bosoh&rid=giphy.gif&ct=g" width="20">
+Hi there I'm Muhammadali Anvarov and I'm frontend developper <img src="https://media2.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif?cid=ecf05e47grspgctzvnc8f8e30kxdeiwrgjs0hpqz103bosoh&rid=giphy.gif&ct=g" width="50">
