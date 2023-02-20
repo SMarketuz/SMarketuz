@@ -10,4 +10,4 @@ Hi there I'm Muhammadali Anvarov and I'm frontend developper <img src="https://m
 🤩My Technolody🤩
 <br><br><br>
 
-<code><img src="https://seeklogo.com/vector-logo/176954/html5-with-wordmark-blackwhite"></code>
+<code><img src="https://seeklogo.com/vector-logo/236541/html5-without-wordmark-blackwhite"></code>
