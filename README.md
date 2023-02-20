@@ -107,9 +107,9 @@
 </table>
 <br>
 
-## :trophy: KNCoder's Github Stats:
+## :trophy: Muhammadali's Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkncoder&theme=github_dark) 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMarketuz&theme=github_dark) 
 
 
 
@@ -121,7 +121,7 @@
 <a href="https://github.com/itkncoder/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=itkncoder">
 </a>
-    <a href="https://github.com/itkncoder?tab=followers">
-        <img src="https://img.shields.io/github/followers/itkncoder?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/smarketuz?tab=followers">
+        <img src="https://img.shields.io/github/followers/SMarketr?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
