@@ -1,5 +1,4 @@
-![Muhammadali](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Khatamov+Nuriddin;I'm+KNCoder!) <img src="https://media2.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif?cid=ecf05e47grspgctzvnc8f8e30kxdeiwrgjs0hpqz103bosoh&rid=giphy.gif&ct=g" width="30">
-<br><br>
+![Muhammadali](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Muhammadali+Anvarov;I'm+Developper!)
 
 😎Name: Muhammadali.<br>
 😉First name: Anvarov.<br>
