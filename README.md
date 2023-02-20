@@ -14,7 +14,7 @@ Hi there I'm Muhammadali Anvarov and I'm frontend developper <img src="https://m
   <img src="https://media2.giphy.com/media/13Nc3xlO1kGg3S/200w.webp?cid=ecf05e47c94edncp4mqz5djevc81ahdrxbubyv5ptqrjefr3&rid=200w.webp&ct=g" width="100">
 </a>
 <a href="https://www.youtube.com/@SiteMarket/about">
-  <img src="https://media1.giphy.com/media/ya4eevXU490Iw/200.webp?cid=ecf05e47d6wwbdqrbu002rfhkedhzacolyg4o8joldc76az7&rid=200.webp&ct=g" width="100">
+  <img src="https://media1.giphy.com/media/ya4eevXU490Iw/200.webp?cid=ecf05e47d6wwbdqrbu002rfhkedhzacolyg4o8joldc76az7&rid=200.webp&ct=g" width="60">
 </a>
 <a href="https://www.youtube.com/@SiteMarket/about">
   <img src="https://media3.giphy.com/media/l41YmiCZ8HXvVl5M4/200w.webp?cid=ecf05e47qxaxpgep7bl7gdkto5vt0c7lsanlje302acodi8m&rid=200w.webp&ct=g" width="100">
