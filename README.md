@@ -7,7 +7,7 @@ Hi there I'm Muhammadali Anvarov and I'm frontend developper <img src="https://m
 💕I'm Web Developper!<br>
 😍I'm from Uzbekistan,Fergana,Quva.<br>
 
-🤩My Technolody🤩
+🤩My Platform🤩
 <br><br><br>
 
 <a href="https://www.youtube.com/@SiteMarket/about">
@@ -22,4 +22,8 @@ Hi there I'm Muhammadali Anvarov and I'm frontend developper <img src="https://m
 <a href="https://www.youtube.com/@SiteMarket/about">
   <img src="https://media0.giphy.com/media/cLH9p9PXZSVsoOecZK/giphy.webp?cid=ecf05e47hbk8hjglad346p4mzvcwqqzl0m4lk1zjb0g3ece0&rid=giphy.webp&ct=g" width="50">
 </a>
+<br><br><br>
+🤩My Technology🤩
+<br><br><br>
 
+ <img src="https://images.app.goo.gl/u36mLpg6q5HftsrcA" width="50">
