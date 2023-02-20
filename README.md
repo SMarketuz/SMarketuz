@@ -10,4 +10,4 @@ Hi there I'm Muhammadali Anvarov and I'm frontend developper <img src="https://m
 🤩My Technolody🤩
 <br><br><br>
 
-<code><img src="[![image](https://user-images.githubusercontent.com/124789539/220180564-55e419f2-949f-45ca-a4a6-4cc3e64afd65.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficones.pro%2Fen%2Fblue-html-icon-png-logo-symbol%2F&psig=AOvVaw3b4NLTyRQXK3kQJvmFbDav&ust=1677005139567000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDz2ZPhpP0CFQAAAAAdAAAAABAE)"></code>
+<code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficones.pro%2Fen%2Fblue-html-icon-png-logo-symbol%2F&psig=AOvVaw3b4NLTyRQXK3kQJvmFbDav&ust=1677005139567000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDz2ZPhpP0CFQAAAAAdAAAAABAE"></code>
