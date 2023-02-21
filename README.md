@@ -1,10 +1,10 @@
-![Muhammadali Anvarov](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=1000&lines=Hi+there,+I'm+Shahzodbek+Komilov;I'm+Developper!)
+![Muhammadali Anvarov](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=1000&lines=Hi+there,+I'm+Muhammadali+Anvarov;I'm+Developper!)
 
 😎Name: Muhammadali.<br>
 😉First name: Anvarov.<br>
 😢Age: 18 years old.<br>
 💕I'm Web Developper!<br>
-😍I'm from Uzbekistan,Fergana,Quva.<br>
+😍I'm from Uzbekistan,Fergana,Quva.<br>z
 
 🤩My Platform🤩
 <br>
