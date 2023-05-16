@@ -118,7 +118,7 @@
 
 <p align="center">
 
-<a href="https://github.com/itkncoder/github-profile-views-counter">
+<a href="https://github.com/SMarketuz/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=itkncoder">
 </a>
     <a href="https://github.com/smarketuz?tab=followers">
