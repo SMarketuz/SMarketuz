@@ -119,7 +119,7 @@
 <p align="center">
 
 <a href="https://github.com/SMarketuz/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=itkncoder">
+    <img src="https://komarev.com/ghpvc/?username=SMarketuz">
 </a>
     <a href="https://github.com/smarketuz?tab=followers">
         <img src="https://img.shields.io/github/followers/SMarketr?label=Followers&style=social" alt="GitHub Badge">
