@@ -2,7 +2,7 @@
 
 😎Name: Muhammadali.<br>
 😉First name: Anvarov.<br>
-😢Age: 18 years old.<br>
+😢Age: 20 years old.<br>
 💕I'm Web Developper!<br>
 😍I'm from Uzbekistan,Fergana,Quva.<br>z
 
