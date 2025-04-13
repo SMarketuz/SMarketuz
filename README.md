@@ -34,7 +34,7 @@
       <br>Rest
     </td>
     <td align="center" width="96">
-      <a href="#git" >
+      <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
@@ -52,19 +52,41 @@
       <br>Node js
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
+        <img src="https://media.licdn.com/dms/image/v2/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=4jKdvoBWv587Ek7xruyjjOaKoMjvAKw3eAN4MKlJZPc" alt="icon" width="65" height="65" />
+      <br>Express js
     </td>
     <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      <a href="#" >
+        <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Git
+      <br>MongoDB
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
+        <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" width="48" height="48" alt="GitHub" />
+      <br>Chakra ui
+    </td>
+</tr>
+
+<tr>
+    <td align="center" width="96">
+        <img src="https://www.bairesdev.com/wp-content/uploads/2020/07/redux.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NestJS-logo-wordmark.svg/1200px-NestJS-logo-wordmark.svg.png" alt="icon" width="65" height="65" />
+      <br>Nest js
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>React native
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/800px-ChatGPT-Logo.svg.png" width="48" height="48" alt="GitHub" />
+      <br>AI
     </td>
 </tr>
 
