@@ -65,10 +65,6 @@
     </td>
 </tr>
 
- <tr>
-   
-</tr>
-
 <tr>
     <td align="center" width="96">
         <img src="https://www.bairesdev.com/wp-content/uploads/2020/07/redux.svg" alt="icon" width="65" height="65" />
@@ -88,11 +84,8 @@
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/800px-ChatGPT-Logo.svg.png" width="48" height="48" alt="GitHub" />
       <br>AI
-    </td>
-</tr>
-
-<tr>
-    <td align="center"  width="96">
+    </td>y
+     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
@@ -109,6 +102,7 @@
       <br>Tailwind
     </td>
 </tr>
+
 <tr>
         <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
