@@ -12,14 +12,11 @@
 <a href="https://www.youtube.com/@SiteMarket/about">
   <img src="https://media2.giphy.com/media/13Nc3xlO1kGg3S/200w.webp?cid=ecf05e47c94edncp4mqz5djevc81ahdrxbubyv5ptqrjefr3&rid=200w.webp&ct=g" width="100">
 </a>
-<a href="https://t.me/Ali_Portfolio_webt">
+<a href="https://t.me/MOdevco">
   <img src="https://media1.giphy.com/media/ya4eevXU490Iw/200.webp?cid=ecf05e47d6wwbdqrbu002rfhkedhzacolyg4o8joldc76az7&rid=200.webp&ct=g" width="60">
 </a>
-<a href="https://instagram.com/muhammadal1_dev">
+<a href="https://www.instagram.com/mo_devco/">
   <img src="https://media3.giphy.com/media/l41YmiCZ8HXvVl5M4/200w.webp?cid=ecf05e47qxaxpgep7bl7gdkto5vt0c7lsanlje302acodi8m&rid=200w.webp&ct=g" width="50">
-</a>
-<a href="https://www.youtube.com/@SiteMarket/about">
-  <img src="https://media0.giphy.com/media/cLH9p9PXZSVsoOecZK/giphy.webp?cid=ecf05e47hbk8hjglad346p4mzvcwqqzl0m4lk1zjb0g3ece0&rid=giphy.webp&ct=g" width="50">
 </a>
 <br><br><br>
 🤩My Technology🤩
@@ -31,6 +28,28 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest
+    </td>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+</tr>
+
+ <tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="icon" width="65" height="65" />
+      <br>Node js
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
