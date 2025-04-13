@@ -48,10 +48,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="icon" width="65" height="65" />
       <br>Node js
     </td>
-</tr>
-
- <tr>
-   
     <td align="center" width="96">
         <img src="https://media.licdn.com/dms/image/v2/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=4jKdvoBWv587Ek7xruyjjOaKoMjvAKw3eAN4MKlJZPc" alt="icon" width="65" height="65" />
       <br>Express js
@@ -67,6 +63,10 @@
         <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" width="48" height="48" alt="GitHub" />
       <br>Chakra ui
     </td>
+</tr>
+
+ <tr>
+   
 </tr>
 
 <tr>
