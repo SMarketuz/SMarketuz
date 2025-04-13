@@ -4,7 +4,7 @@
 😉First name: Anvarov.<br>
 😢Age: 20 years old.<br>
 💕I'm Web Developper!<br>
-😍I'm from Uzbekistan,Fergana,Quva.<br>z
+😍I'm from Uzbekistan,Fergana,Quva.<br>
 
 🤩My Platform🤩
 <br>
